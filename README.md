@@ -1,4 +1,4 @@
-# Textile-Detection-detection
+# Textile-Damage-Detection
 
 
 I had to balance the data and raise the accuracy from 76 to 98 
